@@ -6,7 +6,7 @@
 
 My name is **Dahyun Kim**
 
-Studied at **Hansung Univ**，Major in **Computer Science**💻
+Studied at **Hansung Univ**, Major in **Computer Science**💻
 
 Work as a **freelancer**!
 
