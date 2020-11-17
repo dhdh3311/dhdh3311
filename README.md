@@ -14,7 +14,7 @@ Work as a **freelancer**!
 (Renewing...)
 
 ## 🚀 Github Stats 🚀
-![Doom's github stats](https://github-readme-stats.vercel.app/api?username=dhdh3311&theme=onedark&show_icons=true&line_height=33) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhdh3311&theme=onedark&langs_count=4&card_width=352)](https://github.com/anuraghazra/github-readme-stats)
+![Doom's github stats](https://github-readme-stats.vercel.app/api?username=dhdh3311&theme=jolly&show_icons=true&line_height=33) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhdh3311&theme=jolly&langs_count=4&card_width=352)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
