@@ -2,17 +2,20 @@
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Hello, I'm Dahyun Kim 😎
-[My Blog!](https://doooomdoom.tistory.com/) 🛠
+[![Blog](https://img.shields.io/badge/doom's-Blog-yellowgreen)](https://doooomdoom.tistory.com/)
 
 My name is **Dahyun Kim**
 
 Studied at **Hansung Univ**，Major in **Computer Science**💻
 
-</div>
+Work as a **freelancer**!
 
 
 ## 🚀 Github Stats 🚀
 ![Doom's github stats](https://github-readme-stats.vercel.app/api?username=dhdh3311&theme=vue&show_icons=true&line_height=33) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhdh3311&theme=vue&langs_count=4&card_width=352)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 
 <!--
