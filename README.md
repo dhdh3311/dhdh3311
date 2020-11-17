@@ -1,5 +1,3 @@
-![GitHub User's stars](https://img.shields.io/github/stars/dhdh3311?label=doom%27s%20stars&logoColor=Black&style=social)
-
 ## 🧐 Github Stats
 ![Doom's github stats](https://github-readme-stats.vercel.app/api?username=dhdh3311&theme=calm&show_icons=true&line_height=33)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhdh3311&theme=calm&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!--
